@@ -1,0 +1,14 @@
+target/
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Ignore environment files, except safe example templates
+.env*
+!.env.example
